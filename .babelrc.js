@@ -6,7 +6,6 @@ module.exports = {
             {
                 sourceMap: true,
                 autoLabel: true,
-                labelFormat: "[filename]--[local]",
             },
         ],
     ],

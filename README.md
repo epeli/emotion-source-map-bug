@@ -1,11 +1,11 @@
-# Broken Emotion Source Maps with Nextjs
+# Wrong source map destinations with Emotion
 
-When using custom server
+Install deps
 
-This works
+    npm ci
 
-    ./node_modules/.bin/next
+Start the next server
 
-But my custom server does not
+    npm start
 
-    node ./server.js
+Open <http://localhost:3000> and inspect the pink element
